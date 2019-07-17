@@ -2,7 +2,7 @@
 
 This is my editor color theme for IntelliJ IDEA.
 
-I wanted to make a color theme that was not only easy to look at, but where the colors and text styles actually carry meaning and convey context. I started with a dark background (Darcula is the parent theme) and used a variety of colors. The theme font is Source Code Pro, but no font size is given in the theme as this should be set according to preference and screen resolution.
+I wanted to make a color theme that was not only easy to look at, but where the colors and text styles actually carry meaning and convey context. I started with a dark background (Darcula is the parent theme) and used a variety of bright, neon-ish colors. The theme font is Source Code Pro, but no font size is given in the theme as this should be set according to preference and screen resolution.
 
 Generally, for language syntax:
 
@@ -24,7 +24,7 @@ Extensive use of the Lanugage Defaults was used in order to both maintain consis
 
 Syntax theming has been defined for:
 
-ANTLR, CSS, HTML, Java, JavaScript, JSON, Sass/SCSS, TypeScript, XML, YAML
+ANTLR, CSS, Groovy, HTML, Java, JavaScript, JSON, Sass/SCSS, TypeScript, XML, YAML
 
 ## Installation
 
