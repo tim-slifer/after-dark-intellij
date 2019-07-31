@@ -1,14 +1,4 @@
 <scheme name="AfterDark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
-  <metaInfo>
-    <property name="created">2019-04-09T14:21:15</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-07-16T22:22:20</property>
-    <property name="originalScheme">_@user_Darcula</property>
-  </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_COLOR" value="e6e6e6" />
@@ -73,7 +63,6 @@
       </value>
     </option>
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="a5fa" />
@@ -327,6 +316,10 @@
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="3cfa1e" />
@@ -337,11 +330,6 @@
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="a5fa" />
-      </value>
-    </option>
-    <option name="List/map to object conversion">
-      <value>
-        <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -419,14 +407,6 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fa1414" />
-      </value>
-    </option>
-    <option name="Unresolved reference access">
-      <value>
-        <option name="FOREGROUND" value="e6e6e6" />
-        <option name="EFFECT_COLOR" value="fa1414" />
-        <option name="ERROR_STRIPE_COLOR" value="fa1414" />
-        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
