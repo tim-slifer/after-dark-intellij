@@ -4,7 +4,7 @@
     <property name="created">2021-10-25T19:41:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-10-26T02:08:13</property>
+    <property name="modified">2021-10-26T13:26:19</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -1058,13 +1058,47 @@
         <option name="FOREGROUND" value="a5fa" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
+    <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="2980b9" />
-        <option name="EFFECT_COLOR" value="2980b9" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="fafa28" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
+    <option name="KOTLIN_COLON">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+      </value>
+    </option>
+    <option name="KOTLIN_DOUBLE_COLON">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
+      <value>
+        <option name="FOREGROUND" value="fafa28" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXCLEXCL">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_COLOR" value="232629" />
@@ -1073,24 +1107,30 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="3daee9" />
+        <option name="FOREGROUND" value="faa014" />
+      </value>
+    </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_QUEST">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
-      <value>
-        <option name="BACKGROUND" value="276946" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
-      <value>
-        <option name="BACKGROUND" value="276946" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
-      <value>
-        <option name="BACKGROUND" value="276946" />
-      </value>
+      <value />
     </option>
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="27ae60" />
