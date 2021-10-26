@@ -4,7 +4,7 @@
     <property name="created">2021-10-25T19:41:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-10-25T21:38:17</property>
+    <property name="modified">2021-10-25T21:44:19</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -421,6 +421,13 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Closure braces">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CodeWithMe.USER_1_MARKER">
       <value>
         <option name="FOREGROUND" value="232629" />
@@ -938,6 +945,7 @@
         <option name="FOREGROUND" value="336ecc" />
       </value>
     </option>
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HTTP_REQUEST_MULTIPART_BOUNDARY">
       <value>
         <option name="FOREGROUND" value="7f8c8d" />
@@ -1120,7 +1128,7 @@
     </option>
     <option name="List/map to object conversion">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
@@ -1182,6 +1190,8 @@
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TAB_SELECTED">
       <value>
         <option name="BACKGROUND" value="31363b" />
@@ -1240,6 +1250,14 @@
       <value>
         <option name="FOREGROUND" value="fa1414" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+        <option name="EFFECT_COLOR" value="fa1414" />
+        <option name="ERROR_STRIPE_COLOR" value="fa1414" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
