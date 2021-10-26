@@ -4,7 +4,7 @@
     <property name="created">2021-10-25T19:41:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-10-25T23:28:30</property>
+    <property name="modified">2021-10-25T23:33:30</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -1202,9 +1202,15 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
-        <option name="FOREGROUND" value="8080" />
+        <option name="FOREGROUND" value="fafa28" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="faa014" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -1256,14 +1262,21 @@
         <option name="ERROR_STRIPE_COLOR" value="fafa" />
       </value>
     </option>
+    <option name="TS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TS.TYPE_GUARD">
       <value>
-        <option name="BACKGROUND" value="276946" />
+        <option name="FOREGROUND" value="3cfa1e" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="1abc9c" />
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
