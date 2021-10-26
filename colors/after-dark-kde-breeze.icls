@@ -4,7 +4,7 @@
     <property name="created">2021-10-25T19:41:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-10-25T23:22:51</property>
+    <property name="modified">2021-10-25T23:28:30</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -1149,6 +1149,12 @@
         <option name="FOREGROUND" value="f67400" />
       </value>
     </option>
+    <option name="LOMBOK_KEY">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
@@ -1176,11 +1182,14 @@
         <option name="BACKGROUND" value="3c3c3c" />
       </value>
     </option>
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="PROPERTIES.KEY">
       <value>
-        <option name="FOREGROUND" value="2980b9" />
+        <option name="FOREGROUND" value="a5fa" />
       </value>
     </option>
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="bdc3c7" />
