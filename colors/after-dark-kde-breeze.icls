@@ -4,7 +4,7 @@
     <property name="created">2021-10-25T19:41:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-10-25T23:19:27</property>
+    <property name="modified">2021-10-25T23:22:51</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -1037,6 +1037,23 @@
     </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+      </value>
+    </option>
+    <option name="JSONPATH.BOOLEAN">
+      <value>
+        <option name="FOREGROUND" value="fa0064" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSONPATH.CONTEXT">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSONPATH.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="a5fa" />
       </value>
