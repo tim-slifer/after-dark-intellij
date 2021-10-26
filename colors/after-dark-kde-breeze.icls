@@ -4,7 +4,7 @@
     <property name="created">2021-10-25T19:41:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-10-25T23:40:18</property>
+    <property name="modified">2021-10-26T01:27:35</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -829,49 +829,49 @@
     </option>
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="27ae60" />
+        <option name="FOREGROUND" value="3cfa1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bdc3c7" />
+        <option name="FOREGROUND" value="3cfa1e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.HEAD_TAGS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="27ae60" />
+        <option name="FOREGROUND" value="3cfa1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.LOCAL_BRANCH_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="27ae60" />
+        <option name="FOREGROUND" value="3cfa1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.MASTER_LOCAL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2980b9" />
+        <option name="FOREGROUND" value="3cfa1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.MASTER_WITH_REMOTE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="16a085" />
+        <option name="FOREGROUND" value="3cfa1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.REMOTE_BRANCH_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="27ae60" />
+        <option name="FOREGROUND" value="3cfa1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.STATUS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="27ae60" />
+        <option name="FOREGROUND" value="3cfa1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
