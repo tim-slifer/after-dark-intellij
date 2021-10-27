@@ -1,27 +1,27 @@
 <scheme name="After Dark for KDE Breeze" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.75" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-10-25T19:41:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-10-26T13:26:19</property>
+    <property name="modified">2021-10-27T01:20:24</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="23" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="23" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="23" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="23" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="276946" />
@@ -91,7 +91,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="3a3f44" />
     <option name="SELECTED_INDENT_GUIDE" value="3a3f44" />
     <option name="SELECTED_TEARLINE_COLOR" value="3f4347" />
-    <option name="SELECTION_BACKGROUND" value="2d5c76" />
+    <option name="SELECTION_BACKGROUND" value="232629" />
     <option name="SEPARATOR_BELOW_COLOR" value="3f4347" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4d4d4d" />
     <option name="ScrollBar.hoverThumbColor" value="3daee9" />
@@ -1064,7 +1064,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
     <option name="KOTLIN_COLON">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
@@ -1098,7 +1097,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_COLOR" value="232629" />
@@ -1130,7 +1128,6 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="27ae60" />
