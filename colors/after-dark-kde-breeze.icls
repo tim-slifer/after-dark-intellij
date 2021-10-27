@@ -4,7 +4,7 @@
     <property name="created">2021-10-25T19:41:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-10-27T01:20:24</property>
+    <property name="modified">2021-10-27T01:37:31</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -1252,7 +1252,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="646464" />
+        <option name="BACKGROUND" value="3c3c3c" />
         <option name="ERROR_STRIPE_COLOR" value="646464" />
       </value>
     </option>
@@ -1289,7 +1289,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="646464" />
+        <option name="BACKGROUND" value="3c3c3c" />
         <option name="ERROR_STRIPE_COLOR" value="646464" />
       </value>
     </option>
@@ -1356,7 +1356,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="646464" />
+        <option name="BACKGROUND" value="3c3c3c" />
         <option name="ERROR_STRIPE_COLOR" value="646464" />
       </value>
     </option>
