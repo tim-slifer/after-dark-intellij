@@ -4,7 +4,7 @@
     <property name="created">2022-07-28T18:16:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-07-28T18:22:05</property>
+    <property name="modified">2022-07-28T19:17:19</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -16,4 +16,16 @@
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="2a2e32" />
+  </colors>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+        <option name="BACKGROUND" value="1b1e20" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
