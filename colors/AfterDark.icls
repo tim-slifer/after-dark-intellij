@@ -4,7 +4,7 @@
     <property name="created">2022-07-28T18:16:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-07-28T20:54:34</property>
+    <property name="modified">2022-07-29T00:25:58</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -18,8 +18,18 @@
   </font>
   <colors>
     <option name="CARET_ROW_COLOR" value="2a2e32" />
+    <option name="DOC_COMMENT_GUIDE" value="828282" />
+    <option name="DOC_COMMENT_LINK" value="a5fa" />
   </colors>
   <attributes>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fafa" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="fa1414" />
@@ -30,6 +40,11 @@
       <value>
         <option name="FOREGROUND" value="a5fa" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="828282" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -63,6 +78,30 @@
         <option name="FOREGROUND" value="fafa28" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="828282" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="646464" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -111,6 +150,11 @@
       <value>
         <option name="FOREGROUND" value="fa0064" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="828282" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -187,11 +231,35 @@
         <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="faa014" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="faa014" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
         <option name="BACKGROUND" value="1b1e20" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
