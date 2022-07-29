@@ -24,11 +24,17 @@ Extensive use of the Lanugage Defaults was used in order to both maintain consis
 
 Syntax theming has been defined for:
 
-ANTLR, CSS, Groovy, HTML, Java, JavaScript, JSON, Sass/SCSS, TypeScript, XML, YAML
+ANTLR, CSS/Less/Sass/SCSS, Groovy, HTML, Java, JavaScript, JSON, Kotlin, Properties, TOML, TypeScript, XML, YAML
 
 ## Installation
 
-Copy the `colors` folders in this project into the `~/.IntelliJIdea/config/` folder and restart Idea.
+Copy the `colors` folders in this project into the IntelliJ config folder and restart Idea.
+
+For Linux users: `~/.config/JetBrains/IntelliJIdea<version>`
+
+For Mac users: `~/Library/Application Support/JetBrains/IntelliJIdea<version>`
+
+For Windows users: `%APPDATA%\JetBrains\IntelliJIdea<version>`
 
 ## Colors
 
@@ -37,3 +43,5 @@ Color Themes are selectable in Settings at Editor >> Colors Scheme.
 ## Info
 
 I tend to update this file on an as-needed basis, and have avoided any sort of formal versioning. That being the case, keeping up to date is as simple as running a quick `git pull`.
+
+The latest changes are known to work in IntelliJ Idea 2022.2.
