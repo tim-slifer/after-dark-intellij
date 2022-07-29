@@ -4,7 +4,7 @@
     <property name="created">2022-07-28T18:16:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-07-29T01:32:14</property>
+    <property name="modified">2022-07-29T16:05:55</property>
     <property name="originalScheme">_@user_Darcula</property>
     <property name="rainbow JSON">false</property>
     <property name="rainbow JavaScript">false</property>
@@ -363,6 +363,11 @@
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="faa014" />
@@ -512,6 +517,12 @@
         <option name="FOREGROUND" value="fafa28" />
       </value>
     </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3c3c3c" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3c3c" />
+      </value>
+    </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a5fa" />
@@ -525,6 +536,13 @@
         <option name="FOREGROUND" value="e6e6e6" />
         <option name="BACKGROUND" value="1b1e20" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3c3c3c" />
+        <option name="EFFECT_COLOR" value="3c3c3c" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3c3c" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
@@ -557,6 +575,17 @@
         <option name="EFFECT_COLOR" value="fa1414" />
         <option name="ERROR_STRIPE_COLOR" value="fa1414" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3c3c3c" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3c3c" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
