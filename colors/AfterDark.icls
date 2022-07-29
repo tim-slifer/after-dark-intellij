@@ -4,7 +4,7 @@
     <property name="created">2022-07-28T18:16:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-07-29T00:25:58</property>
+    <property name="modified">2022-07-29T00:27:30</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -28,6 +28,16 @@
         <option name="FOREGROUND" value="fafa" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ANTLRv4_RULENAME">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+      </value>
+    </option>
+    <option name="ANTLRv4_TOKENNAME">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
