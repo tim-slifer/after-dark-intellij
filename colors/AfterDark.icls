@@ -4,8 +4,9 @@
     <property name="created">2022-07-28T18:16:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-07-29T00:45:37</property>
+    <property name="modified">2022-07-29T00:54:41</property>
     <property name="originalScheme">_@user_Darcula</property>
+    <property name="rainbow JavaScript">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -366,6 +367,18 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
