@@ -1,8 +1,12 @@
 <scheme name="AfterDark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2025.2.0.0</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_ROW_COLOR" value="2A2E32" />
     <option name="DOC_COMMENT_GUIDE" value="828282" />
@@ -23,6 +27,62 @@
         <option name="EFFECT_COLOR" value="fa1414" />
         <option name="ERROR_STRIPE_COLOR" value="fa1414" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CSS.ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="fafa" />
+      </value>
+    </option>
+    <option name="CSS.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="fafa" />
+      </value>
+    </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="f050fa" />
+      </value>
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="fa0064" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="fafa" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="fafa" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="fa0064" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="fafa" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="fafa" />
+      </value>
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+      </value>
+    </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="c8c8c8" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -221,6 +281,19 @@
         <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="fa0064" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="fa0064" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -241,6 +314,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="LESS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fafa28" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -255,6 +333,17 @@
       <value>
         <option name="FOREGROUND" value="faa014" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fafa28" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -305,6 +394,7 @@
         <option name="FOREGROUND" value="e6e6e6" />
         <option name="EFFECT_COLOR" value="fa1414" />
         <option name="ERROR_STRIPE_COLOR" value="fa1414" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
   </attributes>
