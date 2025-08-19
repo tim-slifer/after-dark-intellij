@@ -18,7 +18,7 @@ Text styling is also utilized to signify context. Constants and static members a
 
 For various other syntax, subsets of the same colors were used in order to maintain a level of consistency and limit the pallette to a group of colors. An effort was also made to theme similar formats with consistency. For example, HTML and XML are themed using the same set of colors, while others such as YAML, Properties, and JSON also share a similar color group.
 
-Extensive use of the Lanugage Defaults was used in order to both maintain consistency and to more easily facilitate customization.
+Extensive use of the Language Defaults was used in order to both maintain consistency and to more easily facilitate customization.
 
 ## Supported Formats
 
