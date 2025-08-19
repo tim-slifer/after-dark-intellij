@@ -3,6 +3,7 @@
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2025.2.0.0</property>
+    <property name="rainbow JavaScript">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
@@ -27,6 +28,17 @@
         <option name="EFFECT_COLOR" value="fa1414" />
         <option name="ERROR_STRIPE_COLOR" value="fa1414" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+      </value>
+    </option>
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.SUBSHELL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
@@ -83,6 +95,12 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="c8c8c8" />
+      </value>
+    </option>
+    <option name="Class">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -281,6 +299,7 @@
         <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CUSTOM_TAG_NAME">
@@ -314,9 +333,21 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="LESS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="fafa28" />
+      </value>
+    </option>
+    <option name="List/map to object conversion">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -358,6 +389,8 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
@@ -372,10 +405,36 @@
         <option name="ERROR_STRIPE_COLOR" value="3c3c3c" />
       </value>
     </option>
+    <option name="TS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+      </value>
+    </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="3cfa1e" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+        <option name="EFFECT_COLOR" value="fa1414" />
+        <option name="ERROR_STRIPE_COLOR" value="fa1414" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
