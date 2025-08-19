@@ -8,7 +8,7 @@ Generally, for language syntax:
 
 Cool colors are used for object and functions/methods. Class declarations and references are in green. Function/Method declarations and calls are in blue.
 
-Warm colors are used for class fields, parameters, and variables. Fields on classes are in yellow. Parameters and function/method local variables are in orange. 
+Warm colors are used for class fields, parameters, and variables. Fields on classes are in yellow. Parameters and function/method local variables are in orange.
 
 Various grayscale colors are used for text-based content. Comments are a darker gray, String values are a lighter gray, punctuation/operators are a very light gray (near-white).
 
@@ -24,7 +24,7 @@ Extensive use of the Lanugage Defaults was used in order to both maintain consis
 
 Syntax theming has been defined for:
 
-ANTLR, CSS/Less/Sass/SCSS, Groovy, HTML, Java, JavaScript, JSON, Kotlin, Properties, TOML, TypeScript, XML, YAML
+CSS, Groovy, HTML, Java, JavaScript, JSON, Less, PostCSS, Properties, Sass/SCSS, TOML, TypeScript, XML, YAML
 
 ## Installation
 
@@ -34,7 +34,7 @@ For Linux users: `~/.config/JetBrains/IntelliJIdea<version>`
 
 For Mac users: `~/Library/Application Support/JetBrains/IntelliJIdea<version>`
 
-For Windows users: `%APPDATA%\JetBrains\IntelliJIdea<version>`
+For Windows users: `%APPDATA%\Roaming\JetBrains\IntelliJIdea<version>`
 
 ## Colors
 
@@ -44,4 +44,4 @@ Color Themes are selectable in Settings at Editor >> Colors Scheme.
 
 I tend to update this file on an as-needed basis, and have avoided any sort of formal versioning. That being the case, keeping up to date is as simple as running a quick `git pull`.
 
-The latest changes are known to work in IntelliJ Idea 2022.2.
+The latest changes are known to work in IntelliJ Idea 2025.2.
