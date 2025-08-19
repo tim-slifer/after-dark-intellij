@@ -1,28 +1,17 @@
 <scheme name="AfterDark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-07-28T18:16:53</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-02T14:09:46</property>
-    <property name="originalScheme">_@user_Darcula</property>
-    <property name="rainbow JSON">false</property>
+    <property name="ideVersion">2025.2.0.0</property>
     <property name="rainbow JavaScript">false</property>
-    <property name="rainbow kotlin">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="2a2e32" />
+    <option name="CARET_ROW_COLOR" value="2A2E32" />
     <option name="DOC_COMMENT_GUIDE" value="828282" />
-    <option name="DOC_COMMENT_LINK" value="a5fa" />
+    <option name="DOC_COMMENT_LINK" value="00A5FA" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -33,22 +22,23 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ANTLRv4_RULENAME">
-      <value>
-        <option name="FOREGROUND" value="a5fa" />
-      </value>
-    </option>
-    <option name="ANTLRv4_TOKENNAME">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-      </value>
-    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
         <option name="EFFECT_COLOR" value="fa1414" />
         <option name="ERROR_STRIPE_COLOR" value="fa1414" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+      </value>
+    </option>
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.SUBSHELL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
@@ -154,7 +144,6 @@
       <value>
         <option name="FOREGROUND" value="fafa28" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -259,6 +248,7 @@
       <value>
         <option name="FOREGROUND" value="faa014" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -309,57 +299,17 @@
         <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
-    <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GIT_TOOLBOX.HEAD_TAGS_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="GIT_TOOLBOX.LOCAL_BRANCH_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="GIT_TOOLBOX.MASTER_LOCAL_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="GIT_TOOLBOX.MASTER_WITH_REMOTE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="GIT_TOOLBOX.REMOTE_BRANCH_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="GIT_TOOLBOX.STATUS_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="fa0064" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="fa0064" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
@@ -377,113 +327,32 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="JS.MODULE_NAME">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="a5fa" />
       </value>
     </option>
-    <option name="JSONPATH.BOOLEAN">
-      <value>
-        <option name="FOREGROUND" value="fa0064" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JSONPATH.CONTEXT">
-      <value>
-        <option name="FOREGROUND" value="3cfa1e" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="JSONPATH.IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="a5fa" />
-      </value>
-    </option>
     <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
-    <option name="KOTLIN_COLON">
-      <value>
-        <option name="FOREGROUND" value="e6e6e6" />
-      </value>
-    </option>
-    <option name="KOTLIN_DOUBLE_COLON">
-      <value>
-        <option name="FOREGROUND" value="e6e6e6" />
-      </value>
-    </option>
-    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="a5fa" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
-      <value>
-        <option name="FOREGROUND" value="fafa28" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="KOTLIN_EXCLEXCL">
-      <value>
-        <option name="FOREGROUND" value="e6e6e6" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FOREGROUND" value="e6e6e6" />
-      </value>
-    </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
-    <option name="KOTLIN_NAMED_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="faa014" />
-      </value>
-    </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
-    <option name="KOTLIN_QUEST">
-      <value>
-        <option name="FOREGROUND" value="e6e6e6" />
-      </value>
-    </option>
-    <option name="KOTLIN_SMART_CAST_RECEIVER">
-      <value>
-        <option name="FOREGROUND" value="a5fa" />
-      </value>
-    </option>
-    <option name="KOTLIN_SMART_CAST_VALUE">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="fafa28" />
-      </value>
-    </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LESS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="fafa28" />
       </value>
     </option>
-    <option name="LOMBOK_KEY">
-      <value>
-        <option name="FOREGROUND" value="a5fa" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -506,7 +375,6 @@
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="a5fa" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
@@ -531,7 +399,7 @@
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a5fa" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
@@ -602,6 +470,13 @@
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="fa0064" />
+        <option name="EFFECT_COLOR" value="fa0064" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
@@ -609,7 +484,8 @@
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="YAML_ANCHOR">
       <value>
-        <option name="FOREGROUND" value="faa014" />
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
