@@ -338,6 +338,11 @@
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+      </value>
+    </option>
     <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="LESS_VARIABLE">
       <value>
@@ -366,6 +371,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+      </value>
+    </option>
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
@@ -454,6 +467,50 @@
         <option name="EFFECT_COLOR" value="fa1414" />
         <option name="ERROR_STRIPE_COLOR" value="fa1414" />
         <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="fa0064" />
+        <option name="EFFECT_COLOR" value="fa0064" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.toml.BOOLEAN">
+      <value>
+        <option name="FOREGROUND" value="fa0064" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="org.toml.DATE">
+      <value>
+        <option name="FOREGROUND" value="faa014" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="org.toml.KEY">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
